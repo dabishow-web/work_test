@@ -1,0 +1,7 @@
+{
+  "name": "PensionEase Manager",
+  "description": "A comprehensive pension management application featuring daily checklists, inventory tracking, reservation calendars, staff collaboration boards, financial management, and customer CRM.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
